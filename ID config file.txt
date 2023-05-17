@@ -1,0 +1,2 @@
+git config --global user.email "bedgell@scv.edu"
+  git config --global user.name "Bryan_Edgell"
